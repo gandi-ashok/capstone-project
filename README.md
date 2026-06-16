@@ -50,7 +50,7 @@ An AI-powered tool that generates **personalized resumes**, **tailored cover let
 
 ```bash
 # Clone the repository
-git clone https://github.com/sammetaraghu86/ai-resume-portfolio-builder.git
+git clone https://github.com/gandi-ashok/capstone-project
 cd ai-resume-portfolio-builder
 
 # Install dependencies
